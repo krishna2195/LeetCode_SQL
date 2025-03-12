@@ -23,6 +23,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [1182-game-play-analysis-iv](https://github.com/krishna2195/LeetCode_SQL/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/krishna2195/LeetCode_SQL/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/krishna2195/LeetCode_SQL/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/krishna2195/LeetCode_SQL/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/krishna2195/LeetCode_SQL/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/krishna2195/LeetCode_SQL/tree/master/1327-last-person-to-fit-in-the-bus) |
