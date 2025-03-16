@@ -39,6 +39,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [1452-restaurant-growth](https://github.com/krishna2195/LeetCode_SQL/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/krishna2195/LeetCode_SQL/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/krishna2195/LeetCode_SQL/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/krishna2195/LeetCode_SQL/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/krishna2195/LeetCode_SQL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/krishna2195/LeetCode_SQL/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/krishna2195/LeetCode_SQL/tree/master/1801-average-time-of-process-per-machine) |
