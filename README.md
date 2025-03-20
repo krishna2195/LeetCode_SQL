@@ -63,6 +63,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0027-remove-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,8 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
