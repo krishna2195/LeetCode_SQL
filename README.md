@@ -142,4 +142,5 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/krishna2195/LeetCode_SQL/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
