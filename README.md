@@ -90,6 +90,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishna2195/LeetCode_SQL/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -103,6 +104,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishna2195/LeetCode_SQL/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -136,4 +138,8 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krishna2195/LeetCode_SQL/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
