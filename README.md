@@ -90,6 +90,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krishna2195/LeetCode_SQL/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishna2195/LeetCode_SQL/tree/master/0380-insert-delete-getrandom-o1) |
@@ -104,6 +105,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krishna2195/LeetCode_SQL/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishna2195/LeetCode_SQL/tree/master/0380-insert-delete-getrandom-o1) |
@@ -141,6 +143,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krishna2195/LeetCode_SQL/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/krishna2195/LeetCode_SQL/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
