@@ -87,6 +87,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0125-valid-palindrome](https://github.com/krishna2195/LeetCode_SQL/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krishna2195/LeetCode_SQL/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0055-jump-game](https://github.com/krishna2195/LeetCode_SQL/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna2195/LeetCode_SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0068-text-justification](https://github.com/krishna2195/LeetCode_SQL/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/krishna2195/LeetCode_SQL/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/krishna2195/LeetCode_SQL/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
