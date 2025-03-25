@@ -60,6 +60,7 @@ Here I store all the SQL problems I solved in LeetCode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/krishna2195/LeetCode_SQL/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krishna2195/LeetCode_SQL/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -78,6 +79,7 @@ Here I store all the SQL problems I solved in LeetCode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/krishna2195/LeetCode_SQL/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/krishna2195/LeetCode_SQL/tree/master/0151-reverse-words-in-a-string) |
@@ -113,6 +115,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishna2195/LeetCode_SQL/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krishna2195/LeetCode_SQL/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna2195/LeetCode_SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,4 +157,12 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishna2195/LeetCode_SQL/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krishna2195/LeetCode_SQL/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krishna2195/LeetCode_SQL/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
