@@ -104,6 +104,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/krishna2195/LeetCode_SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/krishna2195/LeetCode_SQL/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
@@ -160,6 +161,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/krishna2195/LeetCode_SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/krishna2195/LeetCode_SQL/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/krishna2195/LeetCode_SQL/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0013-roman-to-integer) |
@@ -194,4 +196,8 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishna2195/LeetCode_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/krishna2195/LeetCode_SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
