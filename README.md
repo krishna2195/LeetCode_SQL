@@ -76,6 +76,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0088-merge-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna2195/LeetCode_SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/krishna2195/LeetCode_SQL/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/krishna2195/LeetCode_SQL/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishna2195/LeetCode_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -124,6 +125,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0049-group-anagrams](https://github.com/krishna2195/LeetCode_SQL/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/krishna2195/LeetCode_SQL/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krishna2195/LeetCode_SQL/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/krishna2195/LeetCode_SQL/tree/master/0205-isomorphic-strings) |
@@ -246,4 +248,8 @@ Here I store all the SQL problems I solved in LeetCode
 | [0054-spiral-matrix](https://github.com/krishna2195/LeetCode_SQL/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/krishna2195/LeetCode_SQL/tree/master/0289-game-of-life) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
