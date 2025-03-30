@@ -83,6 +83,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/krishna2195/LeetCode_SQL/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/krishna2195/LeetCode_SQL/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/krishna2195/LeetCode_SQL/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/krishna2195/LeetCode_SQL/tree/master/0289-game-of-life) |
