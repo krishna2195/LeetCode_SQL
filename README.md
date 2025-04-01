@@ -182,6 +182,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/krishna2195/LeetCode_SQL/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishna2195/LeetCode_SQL/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -224,6 +225,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0020-valid-parentheses](https://github.com/krishna2195/LeetCode_SQL/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishna2195/LeetCode_SQL/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/krishna2195/LeetCode_SQL/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/krishna2195/LeetCode_SQL/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
