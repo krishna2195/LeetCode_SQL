@@ -70,6 +70,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0049-group-anagrams](https://github.com/krishna2195/LeetCode_SQL/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/krishna2195/LeetCode_SQL/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/krishna2195/LeetCode_SQL/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/krishna2195/LeetCode_SQL/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krishna2195/LeetCode_SQL/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/krishna2195/LeetCode_SQL/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0073-set-matrix-zeroes) |
@@ -113,6 +114,7 @@ Here I store all the SQL problems I solved in LeetCode
 | ------- |
 | [0015-3sum](https://github.com/krishna2195/LeetCode_SQL/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/krishna2195/LeetCode_SQL/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/krishna2195/LeetCode_SQL/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/krishna2195/LeetCode_SQL/tree/master/0242-valid-anagram) |
