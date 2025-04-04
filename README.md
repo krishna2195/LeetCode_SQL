@@ -140,6 +140,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0128-longest-consecutive-sequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/krishna2195/LeetCode_SQL/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/krishna2195/LeetCode_SQL/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krishna2195/LeetCode_SQL/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/krishna2195/LeetCode_SQL/tree/master/0205-isomorphic-strings) |
@@ -195,6 +196,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/krishna2195/LeetCode_SQL/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/krishna2195/LeetCode_SQL/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishna2195/LeetCode_SQL/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -297,4 +299,9 @@ Here I store all the SQL problems I solved in LeetCode
 | [0092-reverse-linked-list-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/krishna2195/LeetCode_SQL/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/krishna2195/LeetCode_SQL/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/krishna2195/LeetCode_SQL/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
