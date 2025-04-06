@@ -305,6 +305,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/krishna2195/LeetCode_SQL/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0092-reverse-linked-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/krishna2195/LeetCode_SQL/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/krishna2195/LeetCode_SQL/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/krishna2195/LeetCode_SQL/tree/master/0146-lru-cache) |
@@ -320,6 +321,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna2195/LeetCode_SQL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna2195/LeetCode_SQL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -327,6 +329,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0100-same-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -334,6 +337,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0100-same-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -343,5 +347,6 @@ Here I store all the SQL problems I solved in LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna2195/LeetCode_SQL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna2195/LeetCode_SQL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
