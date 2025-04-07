@@ -271,6 +271,7 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishna2195/LeetCode_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -330,6 +331,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krishna2195/LeetCode_SQL/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/krishna2195/LeetCode_SQL/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -364,6 +366,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krishna2195/LeetCode_SQL/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/krishna2195/LeetCode_SQL/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -373,4 +376,8 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/krishna2195/LeetCode_SQL/tree/master/0173-binary-search-tree-iterator) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
