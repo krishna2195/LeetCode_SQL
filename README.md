@@ -479,5 +479,6 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna2195/LeetCode_SQL/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/krishna2195/LeetCode_SQL/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
