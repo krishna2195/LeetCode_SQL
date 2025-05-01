@@ -103,6 +103,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/krishna2195/LeetCode_SQL/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0772-construct-quad-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/krishna2195/LeetCode_SQL/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/krishna2195/LeetCode_SQL/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0148-sort-list](https://github.com/krishna2195/LeetCode_SQL/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
 | [0772-construct-quad-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0772-construct-quad-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/krishna2195/LeetCode_SQL/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishna2195/LeetCode_SQL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/krishna2195/LeetCode_SQL/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/krishna2195/LeetCode_SQL/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -504,4 +507,12 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/krishna2195/LeetCode_SQL/tree/master/0148-sort-list) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/krishna2195/LeetCode_SQL/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/krishna2195/LeetCode_SQL/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
