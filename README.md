@@ -77,6 +77,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0057-insert-interval](https://github.com/krishna2195/LeetCode_SQL/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/krishna2195/LeetCode_SQL/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/krishna2195/LeetCode_SQL/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna2195/LeetCode_SQL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -309,6 +310,7 @@ Here I store all the SQL problems I solved in LeetCode
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/krishna2195/LeetCode_SQL/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishna2195/LeetCode_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
@@ -325,6 +327,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0048-rotate-image](https://github.com/krishna2195/LeetCode_SQL/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/krishna2195/LeetCode_SQL/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishna2195/LeetCode_SQL/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/krishna2195/LeetCode_SQL/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/krishna2195/LeetCode_SQL/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishna2195/LeetCode_SQL/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0212-word-search-ii) |
