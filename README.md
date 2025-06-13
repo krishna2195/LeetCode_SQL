@@ -100,6 +100,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0189-rotate-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/krishna2195/LeetCode_SQL/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0212-word-search-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishna2195/LeetCode_SQL/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/krishna2195/LeetCode_SQL/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/krishna2195/LeetCode_SQL/tree/master/0238-product-of-array-except-self) |
@@ -143,6 +144,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0088-merge-sorted-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/krishna2195/LeetCode_SQL/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/krishna2195/LeetCode_SQL/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/krishna2195/LeetCode_SQL/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/krishna2195/LeetCode_SQL/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -186,6 +188,7 @@ Here I store all the SQL problems I solved in LeetCode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna2195/LeetCode_SQL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/krishna2195/LeetCode_SQL/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/krishna2195/LeetCode_SQL/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0772-construct-quad-tree](https://github.com/krishna2195/LeetCode_SQL/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishna2195/LeetCode_SQL/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
@@ -536,4 +539,9 @@ Here I store all the SQL problems I solved in LeetCode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishna2195/LeetCode_SQL/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna2195/LeetCode_SQL/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
